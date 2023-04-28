@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Felipe Mariuba\IdeaProjects\aulas\.metadata\.plugins\org.eclipse.jdt.core
+1808637612.index
+1865797976.index
+2029800393.index
+2817119357.index
+1067094681.index
